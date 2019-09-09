@@ -1,9 +1,11 @@
-Repositorio: sqlserveraplicado
+repositorio: sqlserveraplicado
 url: https://github.com/stngarcia/sqlserveraplicado
-Descripcion: Actividades realizadas para el ramo de sql server aplicado.
-Alumno: Daniel Garcia Asathor.
+descripcion: Actividades realizadas para el ramo de sql server aplicado.
+alumno: Daniel Garcia Asathor.
 usuario: stngarcia.
-Herramientas utilizadas:
+profesora: Andrea Silva.
+
+herramientas:
 - SQL Server Management Studio 18.
 - sql server 2017 (developer edition)
 - docker desktop 19.03.22
