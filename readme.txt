@@ -3,6 +3,11 @@ url: https://github.com/stngarcia/sqlserveraplicado
 Descripcion: Actividades realizadas para el ramo de sql server aplicado.
 Alumno: Daniel Garcia Asathor.
 usuario: stngarcia.
+Herramientas utilizadas:
+- SQL Server Management Studio 18.
+- sql server 2017 (developer edition)
+- docker desktop 19.03.22
+- Imagen: mcr.microsoft.com/mssql/server:2017-latest-ubuntu
 
 Actividad 01.
 Creacion de modelo de un caso de manejo de proyectos con sql server.
